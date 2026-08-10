@@ -6,7 +6,7 @@
    Perbandingan string dibuat sendiri karakter per karakter.
    ====================================================================== */
 
-public class SortingManual {
+public class Data {
 
     /* Kelas sederhana untuk menyimpan satu baris data: Nama dan Alamat */
     static class Mahasiswa {
