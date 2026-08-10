@@ -1,11 +1,3 @@
-/* ======================================================================
-   PROGRAM PENGURUTAN DATA MAHASISWA (NAMA & ALAMAT)
-   Menggunakan BUBBLE SORT dan SELECTION SORT
-   Dibuat MANUAL tanpa fungsi pustaka pengurutan Java (tidak memakai
-   Arrays.sort, Collections.sort, ataupun String.compareTo).
-   Perbandingan string dibuat sendiri karakter per karakter.
-   ====================================================================== */
-
 public class Data {
 
     /* Kelas sederhana untuk menyimpan satu baris data: Nama dan Alamat */
